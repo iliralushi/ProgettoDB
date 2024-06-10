@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}ANALISI DEI REQUISITI E VISTE}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}VISTA UTENTE ONLINE E SCHEMA SCHELETRO}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}VISTA PERSONA FISICA E SCHEMA SCHELETRO}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}SCHEMI ER}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}TRASFORMAZIONE VISTA UTENTE}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}TRASFORMAZIONE VISTA PERSONA}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}UNIONE DELLE VISTE IN UNICO E/R}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}DIZIONARIO DELLE ENTITA'}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}DIZIONARIO DELLE RELAZIONI}{9}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}VINCOLI}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}VINCOLI NON ESPRIMIBILI DELLA VISTA PERSONA}{10}{subsection.2.7}%
+\contentsline {section}{\numberline {3}SCHEMA LOGICO}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}RISTRUTTURAZIONE DELLO SCHEMA E/R}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}TABELLA DEI VOLUMI E DELLE OPERAZIONI}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}TABELLA DEI COSTI}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}TRADUZIONE DELLO SCHEMA E/R}{14}{subsection.3.4}%
+\contentsline {section}{\numberline {4}INDICI}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Performance degli Indici}{15}{subsection.4.1}%
+\contentsline {section}{\numberline {5}BIBLIOGRAFIA}{16}{section.5}%
